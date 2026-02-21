@@ -400,7 +400,7 @@ footer { padding: 60px; border-top: 1px solid rgba(200,169,110,.1); display: fle
    RESPONSIVE — MÓVIL
 ═══════════════════════════════════════════════════════════ */
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 
   /* ── Navbar ── */
   nav { padding: 16px 20px; }
